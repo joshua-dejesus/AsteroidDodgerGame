@@ -22,13 +22,10 @@ A simple arcade-style game built using C++ and SFML. The objective is to dodge f
 ## 🛠️ Build Instructions
 
 1. Make sure you have [SFML](https://www.sfml-dev.org/) installed.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/asteroid-dodger.git
-   cd asteroid-dodger 
+2. Clone this repository
 3. Compile and run using:
 ```bash
-g++ main.cpp -o AsteroidDodger -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+g++ main.cpp -o AsteroidDodgerGame -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ./AsteroidDodgerGame
 
 
